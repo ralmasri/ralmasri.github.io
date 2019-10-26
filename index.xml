@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rakan Al Masri</title>
+    <link>https://ralmasri.github.io/</link>
+    <description>Recent content on Rakan Al Masri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://ralmasri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://ralmasri.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ralmasri.github.io/about/</guid>
+      <description>I&#39;m Rakan Al Masri, third semester CS student at the Karlsruhe Institute of Technology (KIT).
+My interests include Personal Finance, Gaming, Mathematics, Languages and Programming. I love immersing myself in new cultures,which is why I chose to leave my home and pursue higher education in Germany. I&#39;m an avid reader and rock music fan.
+I hope you that you find something of value on my website. If you have any questions, send me an email over my website&#39;s contact form.</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>https://ralmasri.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ralmasri.github.io/contact/</guid>
+      <description>JotForm.setConditions([{&amp;ldquo;action&amp;rdquo;:[{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;action_1571580661047&amp;rdquo;,&amp;ldquo;field&amp;rdquo;:&amp;ldquo;3&amp;rdquo;,&amp;ldquo;visibility&amp;rdquo;:&amp;ldquo;Require&amp;rdquo;,&amp;ldquo;isError&amp;rdquo;:false},{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;action_1571580656089&amp;rdquo;,&amp;ldquo;field&amp;rdquo;:&amp;ldquo;2&amp;rdquo;,&amp;ldquo;visibility&amp;rdquo;:&amp;ldquo;Require&amp;rdquo;,&amp;ldquo;isError&amp;rdquo;:false},{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;action_1571580645734&amp;rdquo;,&amp;ldquo;field&amp;rdquo;:&amp;ldquo;1&amp;rdquo;,&amp;ldquo;visibility&amp;rdquo;:&amp;ldquo;Require&amp;rdquo;,&amp;ldquo;isError&amp;rdquo;:false}],&amp;ldquo;id&amp;rdquo;:&amp;ldquo;1571580722672&amp;rdquo;,&amp;ldquo;index&amp;rdquo;:&amp;ldquo;0&amp;rdquo;,&amp;ldquo;link&amp;rdquo;:&amp;ldquo;Any&amp;rdquo;,&amp;ldquo;priority&amp;rdquo;:&amp;ldquo;0&amp;rdquo;,&amp;ldquo;terms&amp;rdquo;:[{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;term_1571580717856&amp;rdquo;,&amp;ldquo;field&amp;rdquo;:&amp;ldquo;3&amp;rdquo;,&amp;ldquo;operator&amp;rdquo;:&amp;ldquo;isEmpty&amp;rdquo;,&amp;ldquo;value&amp;rdquo;:&amp;ldquo;&amp;rdquo;,&amp;ldquo;isError&amp;rdquo;:false},{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;term_1571580698287&amp;rdquo;,&amp;ldquo;field&amp;rdquo;:&amp;ldquo;2&amp;rdquo;,&amp;ldquo;operator&amp;rdquo;:&amp;ldquo;isEmpty&amp;rdquo;,&amp;ldquo;value&amp;rdquo;:&amp;ldquo;&amp;rdquo;,&amp;ldquo;isError&amp;rdquo;:false},{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;term_1571580645734&amp;rdquo;,&amp;ldquo;field&amp;rdquo;:&amp;ldquo;1&amp;rdquo;,&amp;ldquo;operator&amp;rdquo;:&amp;ldquo;isEmpty&amp;rdquo;,&amp;ldquo;value&amp;rdquo;:&amp;ldquo;&amp;rdquo;,&amp;ldquo;isError&amp;rdquo;:false}],&amp;ldquo;type&amp;rdquo;:&amp;ldquo;require&amp;rdquo;}]); JotForm.init(function(){ JotForm.setCustomHint( &amp;lsquo;input_3&amp;rsquo;, &amp;lsquo;Write something&amp;hellip;&amp;rsquo; ); JotForm.clearFieldOnHide=&amp;ldquo;disable&amp;rdquo;; /INIT-END/ });
+JotForm.prepareCalculationsOnTheFly([null,{&amp;ldquo;description&amp;rdquo;:&amp;ldquo;&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;name&amp;rdquo;,&amp;ldquo;qid&amp;rdquo;:&amp;ldquo;1&amp;rdquo;,&amp;ldquo;text&amp;rdquo;:&amp;ldquo;Name&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;control_fullname&amp;rdquo;},{&amp;ldquo;description&amp;rdquo;:&amp;ldquo;&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;email&amp;rdquo;,&amp;ldquo;qid&amp;rdquo;:&amp;ldquo;2&amp;rdquo;,&amp;ldquo;subLabel&amp;rdquo;:&amp;ldquo;&amp;rdquo;,&amp;ldquo;text&amp;rdquo;:&amp;ldquo;Email&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;control_email&amp;rdquo;},{&amp;ldquo;description&amp;rdquo;:&amp;ldquo;&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;typeA&amp;rdquo;,&amp;ldquo;qid&amp;rdquo;:&amp;ldquo;3&amp;rdquo;,&amp;ldquo;subLabel&amp;rdquo;:&amp;ldquo;&amp;rdquo;,&amp;ldquo;text&amp;rdquo;:&amp;ldquo;Message&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;control_textarea&amp;rdquo;},{&amp;ldquo;name&amp;rdquo;:&amp;ldquo;submit&amp;rdquo;,&amp;ldquo;qid&amp;rdquo;:&amp;ldquo;4&amp;rdquo;,&amp;ldquo;text&amp;rdquo;:&amp;ldquo;Send&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;control_button&amp;rdquo;}]); setTimeout(function() { JotForm.paymentExtrasOnTheFly([null,{&amp;ldquo;description&amp;rdquo;:&amp;ldquo;&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;name&amp;rdquo;,&amp;ldquo;qid&amp;rdquo;:&amp;ldquo;1&amp;rdquo;,&amp;ldquo;text&amp;rdquo;:&amp;ldquo;Name&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;control_fullname&amp;rdquo;},{&amp;ldquo;description&amp;rdquo;:&amp;ldquo;&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;email&amp;rdquo;,&amp;ldquo;qid&amp;rdquo;:&amp;ldquo;2&amp;rdquo;,&amp;ldquo;subLabel&amp;rdquo;:&amp;ldquo;&amp;rdquo;,&amp;ldquo;text&amp;rdquo;:&amp;ldquo;Email&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;control_email&amp;rdquo;},{&amp;ldquo;description&amp;rdquo;:&amp;ldquo;&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;typeA&amp;rdquo;,&amp;ldquo;qid&amp;rdquo;:&amp;ldquo;3&amp;rdquo;,&amp;ldquo;subLabel&amp;rdquo;:&amp;ldquo;&amp;rdquo;,&amp;ldquo;text&amp;rdquo;:&amp;ldquo;Message&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;control_textarea&amp;rdquo;},{&amp;ldquo;name&amp;rdquo;:&amp;ldquo;submit&amp;rdquo;,&amp;ldquo;qid&amp;rdquo;:&amp;ldquo;4&amp;rdquo;,&amp;ldquo;text&amp;rdquo;:&amp;ldquo;Send&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;control_button&amp;rdquo;}]);}, 20);  .form-label-left{ width:150px; } .form-line{ padding-top:12px; padding-bottom:12px; } .form-label-right{ width:150px; } .form-all{ width:450px; color:rgb(62, 62, 62) !important; font-family:&amp;lsquo;Lucida Grande&amp;amp;&amp;lsquo;; font-size:14px; } .form-radio-item label, .form-checkbox-item label, .form-grading-label, .form-header{ color: #2E2E2E; }
+
+/* Injected CSS Code */ @import &#34;https://fonts.googleapis.com/css?family=Titillium+Web:light,lightitalic,normal,italic,bold,bolditalic|Exo+2:light,lightitalic,normal,italic,bold,bolditalic&#34;; .form-all { font-family: &#34;Lucida Grande&amp;&#34;, sans-serif; } .form-all { width: 450px; } .form-label-left, .form-label-right { width: 150px; } .</description>
+    </item>
+    
+    <item>
+      <title>Legal Notice</title>
+      <link>https://ralmasri.github.io/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ralmasri.github.io/legal/</guid>
+      <description>Rakan Zeid Al Masri
+Kornblumenstr. 22
+76827 Rheinstetten</description>
+    </item>
+    
+  </channel>
+</rss>

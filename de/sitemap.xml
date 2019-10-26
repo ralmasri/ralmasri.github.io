@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ralmasri.github.io/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ralmasri.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ralmasri.github.io/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ralmasri.github.io/de/legal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ralmasri.github.io/legal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ralmasri.github.io/de/legal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ralmasri.github.io/de/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ralmasri.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ralmasri.github.io/de/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ralmasri.github.io/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ralmasri.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ralmasri.github.io/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ralmasri.github.io/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ralmasri.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ralmasri.github.io/de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ralmasri.github.io/de/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ralmasri.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ralmasri.github.io/de/about/"
+                />
+  </url>
+  
+</urlset>
