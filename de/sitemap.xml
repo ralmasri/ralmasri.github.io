@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ralmasri.github.io/de/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ralmasri.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ralmasri.github.io/de/contact/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ralmasri.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -27,20 +41,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://ralmasri.github.io/de/legal/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ralmasri.github.io/de/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ralmasri.github.io/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ralmasri.github.io/de/contact/"
                 />
   </url>
   
