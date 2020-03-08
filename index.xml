@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rakan Al Masri</title>
@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ralmasri.github.io/contact/</guid>
-      <description>Loading… </description>
+      <description></description>
     </item>
     
     <item>
@@ -25,9 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ralmasri.github.io/about/</guid>
-      <description>I&#39;m Rakan Al Masri, third semester CS student at the Karlsruhe Institute of Technology (KIT).
-My interests include Personal Finance, Gaming, Mathematics, Languages and Programming. I love immersing myself in new cultures,which is why I chose to leave my home and pursue higher education in Germany. I&#39;m an avid reader and rock music fan.
-I hope you that you find something of value on my website. If you have any questions, send me an email over my website&#39;s contact form.</description>
+      <description>I&amp;rsquo;m Rakan Al Masri, third semester CS student at the Karlsruhe Institute of Technology (KIT).My interests include Personal Finance, Gaming, Mathematics, Languages and Programming. I love immersing myself in new cultures,which is why I chose to leave my home and pursue higher education in Germany. I&amp;rsquo;m an avid reader and rock music fan.I hope you that you find something of value on my website. If you have any questions, send me an email over my website&amp;rsquo;s contact form.</description>
     </item>
     
     <item>
@@ -48,7 +46,8 @@ Kornblumenstr. 22
       
       <guid>https://ralmasri.github.io/fans/</guid>
       <description>To Pamchitodelarosaramirez, Thanks for the email! Unfortunately, I don&amp;rsquo;t speak any Spanish, so understanding the situation ,especially from someone that posts 99% in Spanish, is difficult.
-Best regards, Rakan &amp;ldquo;Ur Boi&amp;rdquo; Al Masri
+Best regards,
+Rakan &amp;ldquo;Ur Boi&amp;rdquo; Al Masri
 To Biggus Dickus Maximus You should change it to Smallus Dickus Minimus
 To cow Quack!</description>
     </item>
