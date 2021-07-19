@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://ralmasri.github.io/de/contact/</loc>
     <xhtml:link
@@ -14,9 +13,7 @@
                 hreflang="de"
                 href="https://ralmasri.github.io/de/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ralmasri.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,9 +25,7 @@
                 hreflang="de"
                 href="https://ralmasri.github.io/de/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ralmasri.github.io/de/legal/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,9 +37,7 @@
                 hreflang="de"
                 href="https://ralmasri.github.io/de/legal/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ralmasri.github.io/de/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,9 +49,7 @@
                 hreflang="de"
                 href="https://ralmasri.github.io/de/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ralmasri.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -70,9 +61,7 @@
                 hreflang="de"
                 href="https://ralmasri.github.io/de/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ralmasri.github.io/de/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -85,5 +74,4 @@
                 href="https://ralmasri.github.io/de/about/"
                 />
   </url>
-  
 </urlset>
